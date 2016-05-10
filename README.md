@@ -1,0 +1,2 @@
+# LCD
+learning javascript designpattern
